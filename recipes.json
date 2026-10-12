@@ -1,5 +1,44 @@
 [
  {
+  "slug": "high-protein-maple-chicken-breakfast-sandwiches",
+  "url": "recipes/high-protein-maple-chicken-breakfast-sandwiches.html",
+  "title": "High-Protein Maple Chicken Breakfast Sandwiches",
+  "description": "Freezer-friendly breakfast sandwiches with a baked spinach and cottage cheese egg layer, maple-smoked paprika chicken patties, and Swiss on English muffins. Makes 12 sandwiches; reheat from frozen in the air fryer, oven, or microwave.",
+  "yield": "12 sandwiches",
+  "mealType": "Breakfast",
+  "cuisine": "American",
+  "keywords": [
+   "high-protein",
+   "meal-prep",
+   "freezer-friendly",
+   "air-fryer"
+  ],
+  "minutes": null,
+  "added": "2026-10-12",
+  "ingredients": [
+   "8 large eggs",
+   "1 cup 2% cottage cheese",
+   "2 packed cups fresh baby spinach",
+   "1/2 tsp kosher salt",
+   "1/4 tsp black pepper",
+   "2 lb ground chicken",
+   "2 tsp smoked paprika",
+   "1 1/2 tsp garlic powder",
+   "1 1/2 tsp onion powder",
+   "2 tsp kosher salt",
+   "2 Tbsp maple syrup",
+   "1/2 tsp black pepper (optional)",
+   "1 Tbsp neutral oil",
+   "12 English muffins, split",
+   "12 slices Swiss cheese"
+  ],
+  "calories": 430,
+  "protein": 32,
+  "fiber": 2,
+  "carbs": 29,
+  "fat": 21
+ },
+ {
   "slug": "chicken-and-egg-smash-salad",
   "url": "recipes/chicken-and-egg-smash-salad.html",
   "title": "Chicken and Egg Smash Salad",
