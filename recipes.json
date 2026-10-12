@@ -39,6 +39,38 @@
   "fat": 21
  },
  {
+  "slug": "chicken-mushroom-takikomi-gohan-onigiri",
+  "url": "recipes/chicken-mushroom-takikomi-gohan-onigiri.html",
+  "title": "Chicken & Mushroom Takikomi Gohan Onigiri",
+  "description": "One-pot Japanese seasoned rice (takikomi gohan) with chicken thigh, shiitake mushrooms, carrot, and edamame, cooked together in a rice cooker and shaped into riceballs (onigiri).",
+  "yield": "8 onigiri",
+  "mealType": "Lunch",
+  "cuisine": "Japanese",
+  "keywords": [
+   "meal-prep"
+  ],
+  "minutes": null,
+  "added": "2026-10-12",
+  "ingredients": [
+   "360 ml Japanese short-grain rice",
+   "200 g boneless chicken thigh, cut into bite-size pieces",
+   "1/4 cup frozen edamame",
+   "1/4 carrot, julienned",
+   "1/2 pack shiitake mushrooms, sliced",
+   "1/2 tsp salt",
+   "2 tbsp soy sauce",
+   "2 tbsp sake",
+   "2 tbsp mirin",
+   "2 tsp hondashi",
+   "Water, as directed by rice cooker"
+  ],
+  "calories": 187,
+  "protein": 8,
+  "fiber": 1,
+  "carbs": 33,
+  "fat": 2
+ },
+ {
   "slug": "chicken-and-egg-smash-salad",
   "url": "recipes/chicken-and-egg-smash-salad.html",
   "title": "Chicken and Egg Smash Salad",
