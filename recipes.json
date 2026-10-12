@@ -1,5 +1,39 @@
 [
  {
+  "slug": "chicken-and-egg-smash-salad",
+  "url": "recipes/chicken-and-egg-smash-salad.html",
+  "title": "Chicken and Egg Smash Salad",
+  "description": "A creamy, high-protein chicken and egg salad smashed together with a blended cottage cheese sauce. Perfect for meal prep or a quick breakfast, lunch, or dinner. Serve on toast, in a sandwich, wrap, pita, or bagel, over baked potatoes, as a dip, or on its own.",
+  "yield": "5 servings",
+  "mealType": "Lunch",
+  "cuisine": "American",
+  "keywords": [
+   "high-protein",
+   "meal-prep"
+  ],
+  "minutes": null,
+  "added": "2026-10-12",
+  "ingredients": [
+   "2 lb rotisserie chicken, shredded",
+   "5 large eggs, hard-boiled and peeled",
+   "1 bag green onions, chopped",
+   "1/2 cup oil-packed sun-dried tomatoes, drained and chopped",
+   "Gherkins, chopped, as needed",
+   "Fresh dill, chopped",
+   "1/2 cup Parmesan, grated",
+   "300 g low-fat cottage cheese",
+   "2 Tbsp Dijon mustard",
+   "4 Tbsp light mayonnaise (optional)",
+   "1 Tbsp honey",
+   "Garlic powder, to taste"
+  ],
+  "calories": 500,
+  "protein": 48,
+  "fiber": 1,
+  "carbs": 13,
+  "fat": 28
+ },
+ {
   "slug": "chicken-shawarma-rice-bowls",
   "url": "recipes/chicken-shawarma-rice-bowls.html",
   "title": "Chicken Shawarma Rice Bowls",
