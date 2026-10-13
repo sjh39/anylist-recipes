@@ -1,5 +1,42 @@
 [
  {
+  "slug": "creamy-white-bean-and-sausage-soup",
+  "url": "recipes/creamy-white-bean-and-sausage-soup.html",
+  "title": "Creamy White Bean and Sausage Soup",
+  "description": "A creamy, high-protein, high-fiber soup with hot Italian chicken sausage, butter beans, and spinach. Two cans of beans thicken the soup while adding extra protein and fiber.",
+  "yield": "4 servings",
+  "mealType": "Dinner",
+  "cuisine": "Italian",
+  "keywords": [
+   "high-protein",
+   "high-fiber"
+  ],
+  "minutes": null,
+  "added": "2026-10-13",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1/2 onion, diced",
+   "2 cloves garlic, minced",
+   "1.5 lbs ground Italian chicken sausage (hot or mild)",
+   "2 tbsp tomato paste",
+   "2 cups chicken bone broth",
+   "Salt, to taste",
+   "Black pepper, to taste",
+   "1 tsp dried Italian seasoning",
+   "Red pepper flakes, to taste",
+   "2 (15 oz) cans butter beans (or any white bean), drained and rinsed",
+   "1 pint heavy cream (use half for a brothier, less creamy soup)",
+   "3 tbsp Parmesan, grated",
+   "20 g Parmesan, grated, for serving",
+   "2 cups fresh baby spinach, roughly chopped"
+  ],
+  "calories": 953,
+  "protein": 49,
+  "fiber": 7,
+  "carbs": 32,
+  "fat": 71
+ },
+ {
   "slug": "chicken-maple-sausage-egg-breakfast-sandwiches",
   "url": "recipes/chicken-maple-sausage-egg-breakfast-sandwiches.html",
   "title": "Chicken Maple Sausage and Egg Breakfast Sandwiches",
