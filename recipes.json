@@ -1,5 +1,36 @@
 [
  {
+  "slug": "curry-udon-with-beef-and-egg",
+  "url": "recipes/curry-udon-with-beef-and-egg.html",
+  "title": "Curry Udon with Beef and Egg",
+  "description": "Japanese curry udon: thinly sliced beef and sweated onion simmered in a dashi, mirin, and soy broth thickened with curry roux, finished with ribbons of egg and spooned over chilled-rinsed udon. Keep a second 4-cube pack of curry roux on standby if you want it curry-er.",
+  "yield": "2 servings",
+  "mealType": "Dinner",
+  "cuisine": "Japanese",
+  "keywords": [
+   "high-protein"
+  ],
+  "minutes": null,
+  "added": "2026-10-16",
+  "ingredients": [
+   "1 white onion, thinly sliced",
+   "3/4 lb beef, thinly sliced",
+   "6 cups water",
+   "1 tsp dashi powder",
+   "2 tsp mirin",
+   "2 tsp soy sauce",
+   "4 Japanese curry roux cubes (one 4-cube pack)",
+   "2 large eggs",
+   "2 Tbsp water",
+   "2 blocks frozen udon noodles (Sanuki brand preferred)"
+  ],
+  "calories": 1117,
+  "protein": 44,
+  "fiber": 3,
+  "carbs": 95,
+  "fat": 60
+ },
+ {
   "slug": "creamy-white-bean-and-sausage-soup",
   "url": "recipes/creamy-white-bean-and-sausage-soup.html",
   "title": "Creamy White Bean and Sausage Soup",
