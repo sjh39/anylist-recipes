@@ -1,5 +1,32 @@
 [
  {
+  "slug": "sour-green-apple-and-grape-jelly-bar",
+  "url": "recipes/sour-green-apple-and-grape-jelly-bar.html",
+  "title": "Sour Green Apple and Grape Jelly Bar",
+  "description": "A tart, chewy jelly bar made from fresh Granny Smith apple juice, lime, and lemon set with beef gelatin around whole grapes. The juice is heated in the microwave, then poured over grapes in a 9x9 baking pan and chilled until firm. Cut into 9 squares.",
+  "yield": "9 servings",
+  "mealType": "Snack",
+  "cuisine": "",
+  "keywords": [
+   "meal-prep"
+  ],
+  "minutes": null,
+  "added": "2026-10-28",
+  "ingredients": [
+   "1 cup fresh green apple juice, from 2-3 Granny Smith apples",
+   "1 lime, juiced",
+   "1/2 lemon, juiced",
+   "4 Tbsp unflavored beef gelatin",
+   "1 tsp citric acid (optional)",
+   "2 cups green grapes"
+  ],
+  "calories": 51,
+  "protein": 4,
+  "fiber": 0,
+  "carbs": 10,
+  "fat": 0
+ },
+ {
   "slug": "curry-udon-with-beef-and-egg",
   "url": "recipes/curry-udon-with-beef-and-egg.html",
   "title": "Curry Udon with Beef and Egg",
