@@ -1,5 +1,32 @@
 [
  {
+  "slug": "batch-vietnamese-iced-coffee-with-white-chocolate",
+  "url": "recipes/batch-vietnamese-iced-coffee-with-white-chocolate.html",
+  "title": "Batch Vietnamese Iced Coffee with White Chocolate",
+  "description": "A big-batch Vietnamese coffee brewed in four cycles through a 15 oz phin straight into a 64 oz jar of sweetened condensed milk, finished with white chocolate syrup. Makes about 12 to 14 cups depending on cup size, ice, and pour; calculated here as 13 servings. Keeps in the fridge for 3 to 4 days.",
+  "yield": "13 servings",
+  "mealType": "Drink",
+  "cuisine": "",
+  "keywords": [
+   "meal-prep",
+   "vegetarian"
+  ],
+  "minutes": null,
+  "added": "2026-10-29",
+  "ingredients": [
+   "760 g sweetened condensed milk (2 cans)",
+   "240 g Cafe Du Monde ground coffee",
+   "1200 g hot water, for brewing",
+   "100 g white chocolate syrup",
+   "200 g water"
+  ],
+  "calories": 209,
+  "protein": 5,
+  "fiber": 0,
+  "carbs": 37,
+  "fat": 5
+ },
+ {
   "slug": "sour-green-apple-and-grape-jelly-bar",
   "url": "recipes/sour-green-apple-and-grape-jelly-bar.html",
   "title": "Sour Green Apple and Grape Jelly Bar",
