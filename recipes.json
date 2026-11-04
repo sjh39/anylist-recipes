@@ -1,5 +1,43 @@
 [
  {
+  "slug": "high-protein-white-chicken-chili",
+  "url": "recipes/high-protein-white-chicken-chili.html",
+  "title": "High-Protein White Chicken Chili",
+  "description": "A cozy slow cooker white chicken chili with chicken breast, great northern beans, green chiles, corn, and low-fat cream cheese, perfect for chilly weather. Instructions adapted from a standard slow cooker white chicken chili method.",
+  "yield": "6 servings",
+  "mealType": "Dinner",
+  "cuisine": "Tex-Mex",
+  "keywords": [
+   "high-protein",
+   "high-fiber",
+   "slow-cooker"
+  ],
+  "minutes": null,
+  "added": "2026-11-04",
+  "ingredients": [
+   "905 g boneless, skinless chicken breast",
+   "950 ml low-sodium chicken broth",
+   "910 g canned great northern beans",
+   "240 g canned diced green chiles",
+   "50 g diced onion",
+   "130 g whole kernel corn",
+   "1/4 cup chopped fresh cilantro",
+   "15 g minced garlic",
+   "2 tsp ground cumin",
+   "1 tsp dried oregano",
+   "1/2 tsp salt",
+   "1/2 tsp black pepper",
+   "1/2 tsp chili powder",
+   "1/4 tsp cayenne pepper",
+   "225 g low-fat cream cheese"
+  ],
+  "calories": 484,
+  "protein": 52,
+  "fiber": 9,
+  "carbs": 42,
+  "fat": 12
+ },
+ {
   "slug": "batch-vietnamese-iced-coffee-with-white-chocolate",
   "url": "recipes/batch-vietnamese-iced-coffee-with-white-chocolate.html",
   "title": "Batch Vietnamese Iced Coffee with White Chocolate",
