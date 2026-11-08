@@ -1,5 +1,42 @@
 [
  {
+  "slug": "will-ws-avgolemono",
+  "url": "recipes/will-ws-avgolemono.html",
+  "title": "Will W’s Avgolemono",
+  "description": "The best possible sick-day, homey chicken lemon soup. A little more involved than a basic chicken soup, but well worth it if you’re trying to kick a cold.",
+  "yield": "4-6 servings",
+  "mealType": "Dinner",
+  "cuisine": "Greek",
+  "keywords": [
+   "high-protein"
+  ],
+  "minutes": 40,
+  "added": "2026-11-08",
+  "ingredients": [
+   "2 celery stalks, chopped",
+   "1/2 bag (1 lb bag) baby carrots, chopped",
+   "1/2 onion, chopped",
+   "1 inch butter, cut from a stick",
+   "3 Tbsp olive oil",
+   "4 garlic cloves, minced (or 2 Tbsp jarred minced garlic)",
+   "1 pinch all-purpose flour",
+   "6 cups chicken broth (store-bought or made with Better Than Bouillon)",
+   "1.5 lb boneless skinless chicken breasts",
+   "1 cup orzo",
+   "2 lemons, juiced",
+   "Fresh parsley, chopped, optional",
+   "Salt, to taste",
+   "Black pepper, to taste",
+   "Dried Italian seasoning, to taste",
+   "Red pepper flakes, optional"
+  ],
+  "calories": 371,
+  "protein": 31,
+  "fiber": 2,
+  "carbs": 28,
+  "fat": 15
+ },
+ {
   "slug": "lighter-batch-vietnamese-iced-coffee-with-white-chocolate",
   "url": "recipes/lighter-batch-vietnamese-iced-coffee-with-white-chocolate.html",
   "title": "Lighter Batch Vietnamese Iced Coffee with White Chocolate",
