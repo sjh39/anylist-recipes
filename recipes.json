@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-pretty-good-blue-cheese-dip",
+  "url": "recipes/a-pretty-good-blue-cheese-dip.html",
+  "title": "A Pretty Good Blue Cheese Dip",
+  "description": "A garlicky sour cream dip with lemon and scallions, finished with crumbled blue cheese. Serve it as a dip for cold crunchy vegetables or use it as a dressing. Amounts use the midpoints of the source ranges.",
+  "yield": "6 servings",
+  "mealType": "Sauce/Condiment",
+  "cuisine": "American",
+  "keywords": [
+   "vegetarian"
+  ],
+  "minutes": null,
+  "added": "2026-11-10",
+  "ingredients": [
+   "1 clove garlic, grated",
+   "2 scallions, finely chopped",
+   "1 lemon, juiced",
+   "Salt, to taste",
+   "Black pepper, to taste",
+   "9 oz sour cream or full-fat Greek yogurt",
+   "5 oz blue cheese, crumbled"
+  ],
+  "calories": 169,
+  "protein": 6,
+  "fiber": 0,
+  "carbs": 3,
+  "fat": 15
+ },
+ {
   "slug": "will-ws-avgolemono",
   "url": "recipes/will-ws-avgolemono.html",
   "title": "Will W’s Avgolemono",
