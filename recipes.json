@@ -1,5 +1,42 @@
 [
  {
+  "slug": "bbq-chicken-loaded-baked-potato-casserole",
+  "url": "recipes/bbq-chicken-loaded-baked-potato-casserole.html",
+  "title": "BBQ Chicken Loaded Baked Potato Casserole",
+  "description": "BIG BATCH Bakes, Episode 1. A high-protein meal prep casserole: oven-baked BBQ chicken thighs layered over mashed Yukon Gold potatoes blended with a cottage cheese and chicken-juice cream sauce, bacon bits, red and green onions, and sharp cheddar. Bakes in the oven and reheats from frozen in the microwave.",
+  "yield": "10 servings",
+  "mealType": "Dinner",
+  "cuisine": "American",
+  "keywords": [
+   "high-protein",
+   "meal-prep",
+   "freezer-friendly"
+  ],
+  "minutes": null,
+  "added": "2026-11-11",
+  "ingredients": [
+   "1800 g boneless, skinless chicken thighs",
+   "3/4 cup BBQ sauce",
+   "45 g tomato paste",
+   "1 Tbsp olive oil",
+   "2 Tbsp Morton kosher salt",
+   "1 Tbsp black pepper",
+   "1 Tbsp smoked paprika",
+   "450 g 2% cottage cheese",
+   "Rendered juices from the baked BBQ chicken",
+   "2250 g Yukon Gold potatoes, unpeeled and cut into chunks",
+   "85 g bacon bits",
+   "1 large red onion, diced",
+   "1 bunch green onions, diced",
+   "227 g full-fat sharp cheddar, shredded"
+  ],
+  "calories": 580,
+  "protein": 55,
+  "fiber": 6,
+  "carbs": 48,
+  "fat": 19
+ },
+ {
   "slug": "a-pretty-good-blue-cheese-dip",
   "url": "recipes/a-pretty-good-blue-cheese-dip.html",
   "title": "A Pretty Good Blue Cheese Dip",
