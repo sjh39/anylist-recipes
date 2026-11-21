@@ -1,5 +1,36 @@
 [
  {
+  "slug": "old-gay-seasoning",
+  "url": "recipes/old-gay-seasoning.html",
+  "title": "Old \"Gay\" Seasoning",
+  "description": "An Old Bay substitute spice blend. Makes one batch of about 12 oz total, entered as 1 serving.",
+  "yield": "1 serving",
+  "mealType": "Sauce/Condiment",
+  "cuisine": "American",
+  "keywords": [
+   "vegetarian"
+  ],
+  "minutes": null,
+  "added": "2026-11-21",
+  "ingredients": [
+   "2.65 oz coriander",
+   "1.76 oz savory",
+   "0.88 oz celery seed",
+   "1.76 oz yellow mustard seed",
+   "0.88 oz black peppercorns",
+   "0.88 oz fennel seed",
+   "0.88 oz allspice",
+   "1.06 oz smoked paprika",
+   "0.63 oz garlic powder",
+   "0.53 oz onion powder"
+  ],
+  "calories": null,
+  "protein": null,
+  "fiber": null,
+  "carbs": null,
+  "fat": null
+ },
+ {
   "slug": "crispy-chewy-granola-bars",
   "url": "recipes/crispy-chewy-granola-bars.html",
   "title": "Crispy-Chewy Granola Bars",
