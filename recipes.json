@@ -1,5 +1,40 @@
 [
  {
+  "slug": "honey-butter-cornbread-chicken-bake",
+  "url": "recipes/honey-butter-cornbread-chicken-bake.html",
+  "title": "Honey Butter Cornbread Chicken Bake",
+  "description": "A sweet, savory, cheesy chicken and creamed corn filling topped with golden, buttery honey cornbread.",
+  "yield": "6 servings",
+  "mealType": "Dinner",
+  "cuisine": "American",
+  "keywords": [
+   "high-protein"
+  ],
+  "minutes": null,
+  "added": "2026-11-23",
+  "ingredients": [
+   "19.8 oz raw chicken tenderloins",
+   "1 can (14.75 oz) cream style sweet corn",
+   "1 can (10.5 oz) 98% fat free cream of chicken soup",
+   "3 oz reduced fat cream cheese",
+   "3/4 cup fat free shredded cheddar",
+   "1 tsp garlic butter seasoning",
+   "1/2 tsp garlic powder",
+   "1/2 tsp onion powder",
+   "1/2 tsp smoked paprika",
+   "1/2 tsp black pepper",
+   "3.7 oz Krusteaz Honey Cornbread Mix (1/4 bag)",
+   "1.4 fl oz fat free Fairlife milk",
+   "0.7 oz unsalted butter, melted",
+   "0.4 oz beaten egg (1/4 large egg)"
+  ],
+  "calories": 339,
+  "protein": 31,
+  "fiber": 1,
+  "carbs": 31,
+  "fat": 11
+ },
+ {
   "slug": "old-gay-seasoning",
   "url": "recipes/old-gay-seasoning.html",
   "title": "Old \"Gay\" Seasoning",
