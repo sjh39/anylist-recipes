@@ -1,5 +1,35 @@
 [
  {
+  "slug": "mini-potato-crust-quiches",
+  "url": "recipes/mini-potato-crust-quiches.html",
+  "title": "Mini Potato Crust Quiches",
+  "description": "Crispy golden potato crusts filled with fluffy eggs, creamy ricotta, bacon, and cheddar cheese. Makes 12 mini quiches, 2 per serving. A breakfast to prep once and eat all week.",
+  "yield": "6 servings (12 mini quiches, 2 per serving)",
+  "mealType": "Breakfast",
+  "cuisine": "",
+  "keywords": [
+   "meal-prep"
+  ],
+  "minutes": null,
+  "added": "2026-11-28",
+  "ingredients": [
+   "6 medium-large Yukon gold potatoes",
+   "6 large eggs",
+   "1/2 cup ricotta cheese",
+   "7 slices cooked bacon, chopped",
+   "Heaping 1/2 cup shredded cheddar cheese",
+   "Green onions or scallions, chopped",
+   "Salt, to taste",
+   "Black pepper, to taste",
+   "1 Tbsp avocado oil spray"
+  ],
+  "calories": 372,
+  "protein": 18,
+  "fiber": 5,
+  "carbs": 36,
+  "fat": 17
+ },
+ {
   "slug": "honey-butter-cornbread-chicken-bake",
   "url": "recipes/honey-butter-cornbread-chicken-bake.html",
   "title": "Honey Butter Cornbread Chicken Bake",
